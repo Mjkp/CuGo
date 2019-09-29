@@ -7,7 +7,7 @@ CuGo is a board game developed by Kongpyung Moon and Peng Gao, in the Interactiv
 
 
 ## Material
-![](explodeddiagram.jpeg)
+![](explodeddiagram.jpg)
 * PLA Filament
 * dynamixel xl 320 (Robotis)
 http://www.robotis.us/dynamixel-xl-320/
