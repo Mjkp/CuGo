@@ -17,3 +17,4 @@ http://www.robotis.us/dynamixel-xl-320/
 This package has not been included in this repository.
 https://assetstore.unity.com/packages/tools/integration/opencv-for-unity-21088
 * Conductive plate(or conductive tape)
+* 7.6V Adaptor
