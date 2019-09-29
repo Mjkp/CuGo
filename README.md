@@ -16,4 +16,4 @@ http://www.robotis.us/dynamixel-xl-320/
 * OpenCV Unity package has been used for tracking AR Markers(ArUco module)
 This package has not been included in this repository.
 https://assetstore.unity.com/packages/tools/integration/opencv-for-unity-21088
-
+* Conductive plate(or conductive tape)
