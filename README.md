@@ -10,7 +10,8 @@ CuGo is a board game developed by Kongpyung Moon and Peng Gao, in the Interactiv
 
 * PLA Filament
 * dynamixel xl 320 (Robotis)
-* esp8266-12E (Wimos mini D1)
+http://www.robotis.us/dynamixel-xl-320/
+* esp8266 (D1 Mini NodeMcu)
 * Wifi router(smartphone hotspot also works)
 * OpenCV Unity package has been used for tracking AR Markers(ArUco module)
 This package has not been included in this repository.
