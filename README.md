@@ -19,3 +19,6 @@ https://assetstore.unity.com/packages/tools/integration/opencv-for-unity-21088
 * Conductive plate(or conductive tape)
 * 7.6V Adaptor
 * 2mm x 2mm pogo pins
+* 7.6V to 3.3V stepdown
+https://www.amazon.co.uk/gp/product/B07DJZKMYM/ref=ppx_yo_dt_b_asin_title_o01_s01?ie=UTF8&psc=1
+
